@@ -1,0 +1,19 @@
+.season_display_winter {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: aliceblue;
+}
+
+.season_display_summer {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: orange;
+}
+
+.border {
+  border: 5px solid red;
+}
