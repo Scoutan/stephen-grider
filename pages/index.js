@@ -73,7 +73,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Chuko &rarr;</h2>
-            <p>Web scraping using React! <br /> (Create-React-App ver.)</p>
+            <p>Web scraping using React! (Create-React-App ver.)</p>
           </a>
         </div>
       </main>
